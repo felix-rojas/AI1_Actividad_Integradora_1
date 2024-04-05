@@ -1,0 +1,5 @@
+Para la sección 2, anexo un ejemplo:
+
+Ejemplo T1 = 085D965ACCFB93BB5DFAE1EDG5A9C3D1F491A58C20AFBA5236B1864EEF25DBCCA569
+
+En la respuesta:   4 9 que nos indica que 965ACC <- Espejeado (Palindromo) T1
